@@ -151,9 +151,3 @@ Los modelos 3D deben estar en formato GLB y ubicarse en la carpeta `public/model
 - Estén optimizados para web (tamaño reducido)
 - Tengan materiales y texturas correctamente configurados
 - Estén centrados en el origen (0,0,0)
-
-
-## Autores
-
-- Gisel Montoya - [Tu GitHub](https://github.com/Gism0nto)
-
