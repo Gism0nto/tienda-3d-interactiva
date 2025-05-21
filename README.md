@@ -1,6 +1,6 @@
 ## Autores
 
-- Gisel Montoya - [Tu GitHub](https://github.com/Gism0nto)
+- Gisel Montoya 
 
 # Tienda 3D Interactiva
 
